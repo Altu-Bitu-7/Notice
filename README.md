@@ -29,7 +29,7 @@
 | 2024.10.11 |     백트래킹     | [@유서현](https://github.com/)   | |  |       -        |
 | 2024.11.01 |     이분 탐색    | [@sforseohn](https://github.com/sforseohn)      |  |    |       -        |
 | 2024.11.08 |    투 포인터    | [@kimeunsom](https://github.com/kimeunsom)   | |  |       -        |
-| 2024.11.15 |  트리  | [@avocado8](https://github.com/avocado8)  | |  |     |
+| 2024.11.15 |  트리  | [@avocado8](https://github.com/avocado8)  | |  | 녹화 강의 제공 |
 | 2024.11.22 |    최단 경로    | [@mons-trev](https://github.com/mons-trev)  |  |     |       녹화 강의 제공        |
 | 2024.11.29 |   유니온파인드  | |  |       -        | 녹화 강의 제공  |
 | 2024.11.29 |  최소신장트리   |  |  |       -        | 녹화 강의 제공  |
