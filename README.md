@@ -17,16 +17,16 @@
 
 | 날짜 | 주제 | 담당 튜터 | 강의 자료 | 문제 |      비고      |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 2024.08.13 |       OT        | [@chae-jpg](https://github.com/chae-jpg) | |       -        | 녹화 영상 제공 |
-| 2024.08.16 |  정렬, 맵, 셋   | [@엄하늘](https://github.com/) | |  |       비대면        |
-| 2024.08.23 |  스택, 큐, 덱   | [@엄하늘](https://github.com/)    | |  |       비대면        |
-| 2024.08.30 |     정수론      | [@유서현](https://github.com/)   |  |  |    |
+| 2024.08.13 |       OT        | [@chae-jpg](https://github.com/chae-jpg) | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/00_OT/00_OT.pdf) |       -        | 녹화 영상 제공 |
+| 2024.08.16 |  정렬, 맵, 셋   | [@flowing1ife](https://github.com/flowing1ife) | [바로가기](https://github.com/Altu-Bitu-7/Notice/tree/main/01_%EC%A0%95%EB%A0%AC_%EB%A7%B5_%EC%85%8B/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/01_%EC%A0%95%EB%A0%AC_%EB%A7%B5_%EC%85%8B/README.md) |       비대면        |
+| 2024.08.23 |  스택, 큐, 덱   | [@flowing1ife](https://github.com/flowing1ife)    | |  |       비대면        |
+| 2024.08.30 |     정수론      | [@ruruisryu](https://github.com/ruruisryu)   |  |  |    |
 | 2024.09.06 |   브루트 포스   | [@avocado8](https://github.com/avocado8)   |  |  |       -        |
 | 2024.09.13 |   우선순위 큐   |  [@sforseohn](https://github.com/sforseohn)        | |  | 09/17 녹화 강의 제공 |
 | 2024.09.20 | 그리디 알고리즘 | [@kimeunsom](https://github.com/kimeunsom)      | |  |       -        |
-| 2024.09.27 |    동적계획법    | [@유서현](https://github.com/)   | |  |       -        |
+| 2024.09.27 |    동적계획법    | [@flowing1ife](https://github.com/flowing1ife)   | |  |       -        |
 | 2024.10.04 |     DFS & BFS    | [@mons-trev](https://github.com/mons-trev)   | |  |       -        |
-| 2024.10.11 |     백트래킹     | [@유서현](https://github.com/)   | |  |       -        |
+| 2024.10.11 |     백트래킹     | [@ruruisryu](https://github.com/ruruisryu)   | |  |       -        |
 | 2024.11.01 |     이분 탐색    | [@sforseohn](https://github.com/sforseohn)      |  |    |       -        |
 | 2024.11.08 |    투 포인터    | [@kimeunsom](https://github.com/kimeunsom)   | |  |       -        |
 | 2024.11.15 |  트리  | [@avocado8](https://github.com/avocado8)  | |  | 녹화 강의 제공 |
