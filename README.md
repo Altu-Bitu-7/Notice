@@ -19,7 +19,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2024.08.13 |       OT        | [@chae-jpg](https://github.com/chae-jpg) | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/00_OT/00_OT.pdf) |       -        | 녹화 영상 제공 |
 | 2024.08.16 |  정렬, 맵, 셋   | [@flowing1ife](https://github.com/flowing1ife) | [바로가기](https://github.com/Altu-Bitu-7/Notice/tree/main/01_%EC%A0%95%EB%A0%AC_%EB%A7%B5_%EC%85%8B/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/01_%EC%A0%95%EB%A0%AC_%EB%A7%B5_%EC%85%8B/README.md) |       비대면        |
-| 2024.08.23 |  스택, 큐, 덱   | [@flowing1ife](https://github.com/flowing1ife)    | |  |       비대면        |
+| 2024.08.23 |  스택, 큐, 덱   | [@flowing1ife](https://github.com/flowing1ife)    | [바로가기](https://github.com/Altu-Bitu-7/Notice/tree/main/02_%EC%8A%A4%ED%85%8D_%ED%81%90_%EB%8D%B1/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) |[바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/02_%EC%8A%A4%ED%85%8D_%ED%81%90_%EB%8D%B1/README.md)  |       비대면        |
 | 2024.08.30 |     정수론      | [@ruruisryu](https://github.com/ruruisryu)   |  |  |    |
 | 2024.09.06 |   브루트 포스   | [@avocado8](https://github.com/avocado8)   |  |  |       -        |
 | 2024.09.13 |   우선순위 큐   |  [@sforseohn](https://github.com/sforseohn)        | |  | 09/17 녹화 강의 제공 |

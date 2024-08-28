@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1158](https://www.acmicpc.net/problem/1158) | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  | 자료 구조, 구현, 큐 |
-| [4949](https://www.acmicpc.net/problem/4949) | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  | 자료 구조, 스택, 문자열 |
-| [10757](https://www.acmicpc.net/problem/10757) | [큰 수 A+B](https://www.acmicpc.net/problem/10757) | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg"/> |  | 구현, 임의 정밀도 / 큰 수 연산, 사칙연산, 수학 |
+| [1158](https://www.acmicpc.net/problem/1158) | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/02_%EC%8A%A4%ED%85%8D_%ED%81%90_%EB%8D%B1/%ED%95%84%EC%88%98/1158.cpp) | 자료 구조, 구현, 큐 |
+| [4949](https://www.acmicpc.net/problem/4949) | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/02_%EC%8A%A4%ED%85%8D_%ED%81%90_%EB%8D%B1/%ED%95%84%EC%88%98/4949.cpp) | 자료 구조, 스택, 문자열 |
+| [10757](https://www.acmicpc.net/problem/10757) | [큰 수 A+B](https://www.acmicpc.net/problem/10757) | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/02_%EC%8A%A4%ED%85%8D_%ED%81%90_%EB%8D%B1/%ED%95%84%EC%88%98/10757.cpp) | 구현, 임의 정밀도 / 큰 수 연산, 사칙연산, 수학 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1918](https://www.acmicpc.net/problem/1918) | [후위 표기식](https://www.acmicpc.net/problem/1918) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |  | 자료 구조, 스택 |
-| [17298](https://www.acmicpc.net/problem/17298) | [오큰수](https://www.acmicpc.net/problem/17298) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  | 자료 구조, 스택 |
+| [1918](https://www.acmicpc.net/problem/1918) | [후위 표기식](https://www.acmicpc.net/problem/1918) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/02_%EC%8A%A4%ED%85%8D_%ED%81%90_%EB%8D%B1/%EB%8F%84%EC%A0%84/1918.cpp) | 자료 구조, 스택 |
+| [17298](https://www.acmicpc.net/problem/17298) | [오큰수](https://www.acmicpc.net/problem/17298) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/02_%EC%8A%A4%ED%85%8D_%ED%81%90_%EB%8D%B1/%EB%8F%84%EC%A0%84/17298.cpp) | 자료 구조, 스택 |
 ---
  ### 힌트
 <details><summary>요세푸스 문제</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;원형의 사람들을 관리하려면, 앞에서 제거하고 다시 뒤에 추가해야 합니다!</div></details>
