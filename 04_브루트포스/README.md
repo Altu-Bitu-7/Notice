@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 |                                                       풀이 링크                                                        | 분류 |
 | :-: | :-: | :-: |:------------------------------------------------------------------------------------------------------------------:| :-: |
-| [1063](https://www.acmicpc.net/problem/1735) | [킹](https://www.acmicpc.net/problem/1063) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | [바로가기]() | 구현, 시뮬레이션 |
-| [1436](https://www.acmicpc.net/problem/1436) | [영화감독 숌](https://www.acmicpc.net/problem/1436) | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/> | [바로가기]() | 브루트포스 |
-| [11723](https://www.acmicpc.net/problem/11723) | [집합](https://www.acmicpc.net/problem/11723) | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/> | [바로가기]() | 비트마스킹 |
+| [1063](https://www.acmicpc.net/problem/1735) | [킹](https://www.acmicpc.net/problem/1063) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%ED%95%84%EC%88%98/1063.cpp) | 구현, 시뮬레이션 |
+| [1436](https://www.acmicpc.net/problem/1436) | [영화감독 숌](https://www.acmicpc.net/problem/1436) | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%ED%95%84%EC%88%98/1436.cpp) | 브루트포스 |
+| [11723](https://www.acmicpc.net/problem/11723) | [집합](https://www.acmicpc.net/problem/11723) | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%ED%95%84%EC%88%98/11723.cpp) | 비트마스킹 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 |                                                       풀이 링크                                                        | 분류 |
 | :-: | :-: | :-: |:------------------------------------------------------------------------------------------------------------------:| :-: |
-| [14620](https://www.acmicpc.net/problem/14620) | [꽃길](https://www.acmicpc.net/problem/14620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기]() | 브루트포스 |
-| [1052](https://www.acmicpc.net/problem/9421) | [물병](https://www.acmicpc.net/problem/9421) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기]() | 비트마스킹 |
+| [14620](https://www.acmicpc.net/problem/14620) | [꽃길](https://www.acmicpc.net/problem/14620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%8F%84%EC%A0%84/14620.cpp) | 브루트포스 |
+| [1052](https://www.acmicpc.net/problem/9421) | [물병](https://www.acmicpc.net/problem/9421) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%8F%84%EC%A0%84/1052.cpp) | 비트마스킹 |
 ---
  ### 힌트
 <details><summary>영화감독 숌</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;각 수마다 6이 3번 연속으로 나오는지 확인해볼까요? 해당 숫자에 666이 존재하는지 확인해봅시다!</div></details>
