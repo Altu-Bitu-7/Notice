@@ -23,7 +23,7 @@
 | 2024.08.30 |     정수론      | [@ruruisryu](https://github.com/ruruisryu)   | [바로가기](https://github.com/Altu-Bitu-7/Notice/tree/main/03_%EC%A0%95%EC%88%98%EB%A1%A0/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/03_%EC%A0%95%EC%88%98%EB%A1%A0/README.md) |      비대면       |
 | 2024.09.06 |   브루트 포스   | [@avocado8](https://github.com/avocado8)   |[바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4_%EC%9D%B4%EB%A1%A0.pdf)  | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/README.md) |       대면        |
 | 2024.09.13 |   우선순위 큐   |  [@sforseohn](https://github.com/sforseohn)        | |  | 09/17 녹화 강의 제공 |
-| 2024.09.20 | 그리디 알고리즘 | [@kimeunsom](https://github.com/kimeunsom)      | |  |       -        |
+| 2024.09.20 | 그리디 알고리즘 | [@kimeunsom](https://github.com/kimeunsom)      | |  |       대면        |
 | 2024.09.27 |    동적계획법    | [@flowing1ife](https://github.com/flowing1ife)   | |  |       -        |
 | 2024.10.04 |     DFS & BFS    | [@mons-trev](https://github.com/mons-trev)   | |  |       -        |
 | 2024.10.11 |     백트래킹     | [@ruruisryu](https://github.com/ruruisryu)   | |  |       -        |
