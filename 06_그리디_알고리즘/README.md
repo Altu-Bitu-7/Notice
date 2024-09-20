@@ -4,9 +4,9 @@
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [11047](https://www.acmicpc.net/problem/11047) | [동전 0](https://www.acmicpc.net/problem/11047) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기]()| 그리디 |
-| [1931](https://www.acmicpc.net/problem/1931) | [회의실 배정](https://www.acmicpc.net/problem/1931) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기]() | 그리디 | 
-| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1 | [바로가기]() | 그리디 |
+| [11047](https://www.acmicpc.net/problem/11047) | [동전 0](https://www.acmicpc.net/problem/11047) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/11047.cpp)| 그리디 |
+| [1931](https://www.acmicpc.net/problem/1931) | [회의실 배정](https://www.acmicpc.net/problem/1931) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/1931.cpp) | 그리디 | 
+| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | Lv.1 | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/%EC%B2%B4%EC%9C%A1%EB%B3%B5.cpp) | 그리디 |
 ## ✏️ 과제
 ### 마감기한
 ~ 9 / 24 (화) 18:59 - 과제 제출 </br>
