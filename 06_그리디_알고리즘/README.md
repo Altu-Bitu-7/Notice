@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [15662](https://www.acmicpc.net/problem/15662) | [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기]() | 구현, 시뮬레이션 |
-| [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기]() | 그리디, 문자열 |
-| [17451](https://www.acmicpc.net/problem/17451) | [평행 우주](https://www.acmicpc.net/problem/14235) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기]() | 그리디, 수학 |
+| [15662](https://www.acmicpc.net/problem/15662) | [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%84%EC%88%98/15662.cpp) | 구현, 시뮬레이션 |
+| [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%84%EC%88%98/1213.cpp) | 그리디, 문자열 |
+| [17451](https://www.acmicpc.net/problem/17451) | [평행 우주](https://www.acmicpc.net/problem/14235) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%84%EC%88%98/17451.cpp) | 그리디, 수학 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기]() | 그리디, 수학 |
-| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [바로가기]() | 그리디 |
+| [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8F%84%EC%A0%84/19539.cpp) | 그리디, 수학 |
+| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8F%84%EC%A0%84/%ED%81%B0_%EC%88%98_%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp) | 그리디 |
 ---
 ### 힌트
 <details><summary>팰린드롬 만들기</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;어떤 조건을 만족하면 팰린드롬을 만들 수 있을까요?</div></details>
