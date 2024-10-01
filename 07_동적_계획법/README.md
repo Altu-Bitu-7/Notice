@@ -12,16 +12,16 @@
 ~ 10 / 1 (화) 18:59 - 과제 제출 </br>
 ~ 10 / 3 (목) 23:59 - 추가 제출 </br>
 ### 필수
-| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
-| :-: | :-: | :-: | :-: | :-: |
-| [2579](https://www.acmicpc.net/problem/2579) | [계단 오르기](https://www.acmicpc.net/problem/2579) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기]() | 다이나믹 프로그래밍 |
-| [11053](https://www.acmicpc.net/problem/11053) | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기]() | 다이나믹 프로그래밍 |
-| [20923](https://www.acmicpc.net/problem/20923) | [숫자 할리갈리 게임](https://www.acmicpc.net/problem/20923) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기]() | 자료 구조, 덱, 구현, 시뮬레이션 |
+| 문제 번호 | 문제 이름 | 난이도 |                                                                 풀이 링크                                                                  | 분류 |
+| :-: | :-: | :-: |:--------------------------------------------------------------------------------------------------------------------------------------:| :-: |
+| [2579](https://www.acmicpc.net/problem/2579) | [계단 오르기](https://www.acmicpc.net/problem/2579) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/07_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95/%ED%95%84%EC%88%98/2579.cpp)  | 다이나믹 프로그래밍 |
+| [11053](https://www.acmicpc.net/problem/11053) | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/07_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95/%ED%95%84%EC%88%98/11053.cpp) | 다이나믹 프로그래밍 |
+| [20923](https://www.acmicpc.net/problem/20923) | [숫자 할리갈리 게임](https://www.acmicpc.net/problem/20923) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/07_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95/%ED%95%84%EC%88%98/20923.cpp) | 자료 구조, 덱, 구현, 시뮬레이션 |
 ### 도전
-| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
-| :-: | :-: | :-: | :-: | :-: |
-| [2240](https://www.acmicpc.net/problem/2240) | [자두나무](https://www.acmicpc.net/problem/2240) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기]() | 다이나믹 프로그래밍 |
-| [12865](https://www.acmicpc.net/problem/12865) | [평범한 배낭](https://www.acmicpc.net/problem/12865) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기]() | 다이나믹 프로그래밍 |
+| 문제 번호 | 문제 이름 | 난이도 |                                                                 풀이 링크                                                                  | 분류 |
+| :-: | :-: | :-: |:--------------------------------------------------------------------------------------------------------------------------------------:| :-: |
+| [2240](https://www.acmicpc.net/problem/2240) | [자두나무](https://www.acmicpc.net/problem/2240) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/07_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95/%EB%8F%84%EC%A0%84/2240.cpp)  | 다이나믹 프로그래밍 |
+| [12865](https://www.acmicpc.net/problem/12865) | [평범한 배낭](https://www.acmicpc.net/problem/12865) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/07_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95/%EB%8F%84%EC%A0%84/12865.cpp) | 다이나믹 프로그래밍 |
 ---
  ### 힌트
 <details><summary>계단 오르기</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;마지막 계단을 밟는 경우는 2가지가 있습니다. 2가지 경우를 잘 고려해보세요.</div></details>
