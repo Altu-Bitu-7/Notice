@@ -4,9 +4,9 @@
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1260](https://www.acmicpc.net/problem/1260) | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기]() | [DFS, BFS](https://www.acmicpc.net/problem/1260)| 
-| [2636](https://www.acmicpc.net/problem/2636) | [치즈](https://www.acmicpc.net/problem/2636) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() | [DFS, BFS](https://www.acmicpc.net/problem/2636)| 
-| 
+| [1260](https://www.acmicpc.net/problem/1260) | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/08_DFS_BFS/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/1260.cpp) | [DFS, BFS](https://www.acmicpc.net/problem/1260)| 
+| [2636](https://www.acmicpc.net/problem/2636) | [치즈](https://www.acmicpc.net/problem/2636) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/08_DFS_BFS/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2636.cpp) | [DFS, BFS](https://www.acmicpc.net/problem/2636)| 
+
 ## ✏️ 과제
 ### 마감기한
 ~ 10 / 8 (화) 18:59 - 과제 제출 </br>
