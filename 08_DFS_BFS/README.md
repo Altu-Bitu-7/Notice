@@ -14,7 +14,7 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2616](https://www.acmicpc.net/problem/2616) | [오목](https://www.acmicpc.net/problem/2616) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기]() | 구현, 브루트포스 |
+| [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기]() | 구현, 브루트포스 |
 | [2644](https://www.acmicpc.net/problem/2644) | [촌수 계산](https://www.acmicpc.net/problem/2644) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기]() |  |
 | [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기]() |  |
 ### 도전
