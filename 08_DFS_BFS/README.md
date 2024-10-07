@@ -20,7 +20,7 @@
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [14502](https://www.acmicpc.net/problem/14502) | [테트로미노](https://www.acmicpc.net/problem/14502) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() |  |
+| [14502](https://www.acmicpc.net/problem/14502) | [연구소](https://www.acmicpc.net/problem/14502) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() |  |
 | [10026](https://www.acmicpc.net/problem/10026) | [적록색약](https://www.acmicpc.net/problem/10026) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기]() |  |
 ---
 ### 힌트
