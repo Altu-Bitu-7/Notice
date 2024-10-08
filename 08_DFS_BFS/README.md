@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기]() | 구현, 브루트포스 |
-| [2644](https://www.acmicpc.net/problem/2644) | [촌수 계산](https://www.acmicpc.net/problem/2644) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기]() |  |
-| [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기]() |  |
+| [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/08_DFS_BFS/%ED%95%84%EC%88%98/2615.cpp) | 구현, 브루트포스 |
+| [2644](https://www.acmicpc.net/problem/2644) | [촌수 계산](https://www.acmicpc.net/problem/2644) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/08_DFS_BFS/%ED%95%84%EC%88%98/2644.cpp) |  |
+| [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/08_DFS_BFS/%ED%95%84%EC%88%98/2606.cpp) |  |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [14502](https://www.acmicpc.net/problem/14502) | [연구소](https://www.acmicpc.net/problem/14502) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() |  |
-| [10026](https://www.acmicpc.net/problem/10026) | [적록색약](https://www.acmicpc.net/problem/10026) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기]() |  |
+| [14502](https://www.acmicpc.net/problem/14502) | [연구소](https://www.acmicpc.net/problem/14502) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/08_DFS_BFS/%EB%8F%84%EC%A0%84/14502.cpp) |  |
+| [10026](https://www.acmicpc.net/problem/10026) | [적록색약](https://www.acmicpc.net/problem/10026) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/08_DFS_BFS/%EB%8F%84%EC%A0%84/10026.cpp) |  |
 ---
 ### 힌트
 <details><summary>바이러스</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;컴퓨터 연결 관계를 어떤 방식으로 나타내면 좋을지 생각해보세요. 1번 컴퓨터가 바이러스에 감염되는 경우를 구하는 조건이 무엇일까요?</div></details>
