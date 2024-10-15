@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [14888](https://www.acmicpc.net/problem/14888) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기]() | 백트래킹, 브루트포스 알고리즘 |
-| [15665](https://www.acmicpc.net/problem/15665) | [N과 M (11)](https://www.acmicpc.net/problem/15665) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기]() | 백트래킹 |
+| [14888](https://www.acmicpc.net/problem/14888) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%ED%95%84%EC%88%98/14888.cpp) | 백트래킹, 브루트포스 알고리즘 |
+| [15665](https://www.acmicpc.net/problem/15665) | [N과 M (11)](https://www.acmicpc.net/problem/15665) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%ED%95%84%EC%88%98/15665.cpp) | 백트래킹 |
 | [2477](https://www.acmicpc.net/problem/2477) | [참외밭](https://www.acmicpc.net/problem/2477) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기]() | 수학, 구현, 기하학 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() | 백트래킹 |
-| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Lv.2 | [바로가기]() | 백트래킹 |
+| [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%8F%84%EC%A0%84/2580.cpp) | 백트래킹 |
+| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Lv.2 | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%8F%84%EC%A0%84/%EC%86%8C%EC%88%98_%EC%B0%BE%EA%B8%B0.cpp) | 백트래킹 |
 ---
 ### 힌트
 <details><summary>연산자 끼워넣기</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;잘 모르겠을 때는 일단 모든 경우의 수를 찾아본다는 생각으로 시작하는 것도 좋아요. 헷갈리지 않도록 연산자의 종류를 상수로 관리하는 것은 어떨까요?</div></details>
