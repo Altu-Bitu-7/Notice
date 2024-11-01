@@ -4,9 +4,9 @@
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1920](https://www.acmicpc.net/problem/1920) | [수 찾기](https://www.acmicpc.net/problem/1920) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기]() | [이분탐색, 정렬](https://www.acmicpc.net/problem/1920)| 
-| [10816](https://www.acmicpc.net/problem/10816) | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기]() | [이분탐색, 정렬, 해시를 이용한 집합과 맵](https://www.acmicpc.net/problem/10816)| 
-| [2110](https://www.acmicpc.net/problem/2110) | [공유기 설치](https://www.acmicpc.net/problem/2110) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() | [이분 탐색, 매개 변수 탐색](https://www.acmicpc.net/problem/2110)|
+| [1920](https://www.acmicpc.net/problem/1920) | [수 찾기](https://www.acmicpc.net/problem/1920) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/10_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/1920.cpp) | [이분탐색, 정렬](https://www.acmicpc.net/problem/1920)| 
+| [10816](https://www.acmicpc.net/problem/10816) | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/10_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/10816.cpp) | [이분탐색, 정렬, 해시를 이용한 집합과 맵](https://www.acmicpc.net/problem/10816)| 
+| [2110](https://www.acmicpc.net/problem/2110) | [공유기 설치](https://www.acmicpc.net/problem/2110) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/10_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2110.cpp) | [이분 탐색, 매개 변수 탐색](https://www.acmicpc.net/problem/2110)|
 
 ## ✏️ 과제
 ### 마감기한
