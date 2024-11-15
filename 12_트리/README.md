@@ -4,8 +4,8 @@
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1191](https://www.acmicpc.net/problem/1191) | [트리 순회](https://www.acmicpc.net/problem/1191) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기]() | 트리, 재귀 |
-| [4803](https://www.acmicpc.net/problem/4803) | [트리](https://www.acmicpc.net/problem/4803) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() | 트리 dfs |
+| [1191](https://www.acmicpc.net/problem/1191) | [트리 순회](https://www.acmicpc.net/problem/1191) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/12_%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/1991.cpp) | 트리, 재귀 |
+| [4803](https://www.acmicpc.net/problem/4803) | [트리](https://www.acmicpc.net/problem/4803) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/12_%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/4803.cpp) | 트리 dfs |
 
 ## ✏️ 과제 
 ### 마감기한
