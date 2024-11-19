@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() | 구현, 시뮬레이션, 자료구조 |
-| [15681](https://www.acmicpc.net/problem/15681) | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기]() | 트리, 그래프 탐색, dp |
-| [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기]() | 트리, 그래프 탐색 |
+| [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/12_%ED%8A%B8%EB%A6%AC/%ED%95%84%EC%88%98/3190.cpp) | 구현, 시뮬레이션, 자료구조 |
+| [15681](https://www.acmicpc.net/problem/15681) | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/12_%ED%8A%B8%EB%A6%AC/%ED%95%84%EC%88%98/15681.cpp) | 트리, 그래프 탐색, dp |
+| [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/12_%ED%8A%B8%EB%A6%AC/%ED%95%84%EC%88%98/5639.cpp) | 트리, 그래프 탐색 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1967](https://www.acmicpc.net/problem/1967) | [트리의 지름](https://www.acmicpc.net/problem/1967) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() | 트리, 그래프탐색 |
-| [24545](https://www.acmicpc.net/problem/24545) | [Y](https://www.acmicpc.net/problem/24545) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [바로가기]() | 트리, 그래프탐색, dp |
+| [1967](https://www.acmicpc.net/problem/1967) | [트리의 지름](https://www.acmicpc.net/problem/1967) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/12_%ED%8A%B8%EB%A6%AC/%EB%8F%84%EC%A0%84/1967.cpp) | 트리, 그래프탐색 |
+| [24545](https://www.acmicpc.net/problem/24545) | [Y](https://www.acmicpc.net/problem/24545) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [바로가기](https://github.com/Altu-Bitu-7/Notice/blob/main/12_%ED%8A%B8%EB%A6%AC/%EB%8F%84%EC%A0%84/24545.cpp) | 트리, 그래프탐색, dp |
 ---
  ### 힌트
 <details><summary>트리와 쿼리</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;모든 정점을 각각 루트로 하는 서브트리에서의 정점의 수를 빠르게 구해 둘 방법이 무엇일까요? 앞서 배운 알고리즘을 떠올려보세요!</div></details>
