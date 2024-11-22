@@ -20,7 +20,7 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브]() | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 구현, 시뮬레이션 |
+| [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브]() | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](https://github.com/Altu-Bitu-6/Notice/blob/main/13_최단경로/필수/15685.cpp) |구현, 시뮬레이션 |
 | [1238](https://www.acmicpc.net/problem/1238) | [파티](https://www.acmicpc.net/problem/1238) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기]() | 다익스트라 |
 | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() | 플로이드-워셜 |
 
